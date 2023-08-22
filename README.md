@@ -1,6 +1,8 @@
 
 # Dungeon Crawl
 
+![](https://imgur.com/jmqHUZT.gif)
+
 ## Story
 
 [Roguelikes](https://en.wikipedia.org/wiki/Roguelike) are one of the oldest
