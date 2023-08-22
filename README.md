@@ -1,7 +1,7 @@
 
 # Dungeon Crawl
 
-![](https://github.com/RehanyTamas/rgbplay_gif/blob/main/rgplay_gif_final.gif)
+![](https://i.imgur.com/T4UWj2u.gif)
 
 ## Story
 
