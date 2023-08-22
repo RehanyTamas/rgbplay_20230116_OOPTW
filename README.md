@@ -1,7 +1,7 @@
 
 # Dungeon Crawl
 
-![](https://imgur.com/T4UWj2u)
+![Imgur](https://i.imgur.com/T4UWj2u.gifv)
 
 ## Story
 
