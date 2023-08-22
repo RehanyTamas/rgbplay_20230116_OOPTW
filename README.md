@@ -1,9 +1,7 @@
 
 # Dungeon Crawl
 
-![](https://github.com/RehanyTamas/rgbplay_gif/blob/main/rgplay_gif_final.gif)
-
-<img src="https://github.com/RehanyTamas/rgbplay_gif/blob/main/rgplay_gif_final.gif" width=50% height=50%>
+<img src="https://github.com/RehanyTamas/rgbplay_gif/blob/main/rgplay_gif_final.gif" width=75% height=75%>
 
 ## Story
 
