@@ -1,7 +1,8 @@
 
 # Dungeon Crawl
 
-<a href="https://imgur.com/6L03QK5"><img src="https://i.imgur.com/6L03QK5.mp4" title="source: imgur.com" /></a>
+<img src="https://i.imgur.com/6L03QK5.mp4"/>
+
 
 ## Story
 
