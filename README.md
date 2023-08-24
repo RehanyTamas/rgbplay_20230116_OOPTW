@@ -1,7 +1,7 @@
 
 # Dungeon Crawl
 
-<img src="https://github.com/RehanyTamas/rgbplay_gif/blob/main/rgplay_gif_final.gif" width=75% height=75% align="right">
+<img src="https://github.com/RehanyTamas/rgbplay_gif/blob/main/rgplay_gif_final.gif" width=75% height=75% align="center">
 
 [Roguelikes](https://en.wikipedia.org/wiki/Roguelike) are one of the oldest
 types of video games. The earliest ones were made in the 70s, and they were inspired
