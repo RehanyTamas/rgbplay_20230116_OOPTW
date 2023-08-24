@@ -60,3 +60,5 @@ This project requires that your machine is able run maven projects.
 - More maps
 - Victory screen
 - Menu
+
+[![Contributors][contributors-shield]][contributors-url]
