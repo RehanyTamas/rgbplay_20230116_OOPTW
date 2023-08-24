@@ -61,4 +61,8 @@ This project requires that your machine is able run maven projects.
 - Victory screen
 - Menu
 
-[![Contributors][contributors-shield]][contributors-url]
+## Contributors
+
+- Zsolt Levai ([@zsoltlieber](https://github.com/zsoltlieber))
+- Zoltan Farkas ([@FZF-Dev](https://github.com/FZF-Dev))
+- Tamas Rehany ([@RehanyTamas](https://github.com/RehanyTamas))
